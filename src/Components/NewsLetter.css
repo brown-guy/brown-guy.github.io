@@ -1,0 +1,35 @@
+.news-input {
+    border-color: white;
+}
+
+.news-form {
+    border: 2px solid #C8C8C8;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 0px;
+
+}
+
+.btn {
+    margin-right: 10px;
+    font-size: x-small;
+    font-weight: bolder;
+    border-radius: 4px;
+    height: 40px;
+    width: 150px;
+}
+
+.input-div {
+    margin-right: 2px;
+}
+
+.newsletter-image {
+    width: 60%;
+    height: 50vh;
+}
+
+.heading-main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

@@ -1,0 +1,68 @@
+.bolder {
+    font-weight: 900;
+}
+
+.heading {
+    font-weight: 800;
+}
+
+.course-card {
+    margin-left: 47px;
+    border: 2px solid #F0F4F9;
+    width: 90%;
+    height: auto;
+    border-radius: 10px;
+    background-color: #F0F4F9;
+
+}
+
+.parent {
+    position: relative;
+
+}
+
+.course-card-thumbnail {
+    background-color: #FFC107;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    position: absolute;
+    top: -81px;
+    left: -50px;
+
+}
+
+.bottom-div {
+    height: 70px;
+    position: absolute;
+    bottom: -27px;
+    left: 12.5%;
+    border-radius: 5px;
+}
+
+.text-muted {
+    font-size: small;
+}
+
+.top-left {
+    width: 20%;
+    height: 25%;
+    position: absolute;
+    border-radius: 5px;
+    top: -5%;
+    left: -5%;
+}
+
+.container {
+    margin-bottom: 100px;
+
+}
+
+.featured-row {
+    width: 77%;
+}
+
+.featured-heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
